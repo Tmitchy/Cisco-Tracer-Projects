@@ -1,7 +1,7 @@
 # Network Infrastructure-Projects
 Practical exploration of essential networking concepts and skills, to maintain network connectivity, understand documentation and network services, and effectively troubleshoot and secure network infrastructures.
 
-Tool: Cisco Packet Tracer
+Tool: Cisco Packet Tracer. Open the file with Cisco Packet Tracer (pkt).
 
 How to Use It: <br>
 By understanding network concepts and having knowledge of networking infrastructures, Network protocols, Network Operations, Network Security, Network Implementation, Network Troubleshooting, and by assigning an IP address for swift communication with other devices, the Network Infrastructure can be utilized effectively. However, there are configurations to be made on each network device. 
