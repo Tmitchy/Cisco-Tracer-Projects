@@ -8,3 +8,5 @@ By understanding the Network Infrastructure and assigning an IP address for swif
 
 What I have learned and am still practicing:<br>
 It is a fundamental set of networking skills that doesn't require real hardware. Allowing me to visualize how a network works, how to build and design my networks, and experiment with various networking technologies and protocols.
+
+Security Concepts Involved: Setting Passwords, firewalls, WPA3, and ACLs for switches and routers.
