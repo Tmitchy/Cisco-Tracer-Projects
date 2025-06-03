@@ -4,9 +4,9 @@ Practical exploration of essential networking concepts and skills, to maintain n
 Tool: Cisco Packet Tracer. Open the file with Cisco Packet Tracer (pkt).
 
 How to Use It: <br>
-By understanding network concepts and having knowledge of networking infrastructures, Network protocols, Network Operations, Network Security, Network Implementation, Network Troubleshooting, and by assigning an IP address for swift communication with other devices, the Network Infrastructure can be utilized effectively. However, there are configurations to be made on each network device. 
+Understanding network concepts and having knowledge of networking infrastructures, Network protocols, Network Operations, Network Security, Network Implementation, Network Troubleshooting, and assigning an IP address for swift communication with other devices gives you an understanding of how Network Infrastructures can be utilized effectively. 
 
-What I have learned and am still practicing:<br>
-It is a fundamental set of networking skills that doesn't require real hardware. Allowing me to visualize how a network works, how to practice my network knowledge, build and design networks, and experiment with various networking technologies and protocols.
+What I am learning:<br>
+I am learning the fundamental set of networking skills by using this tool, which doesn't require real hardware. Allowing me to visualize how a network works, how to practice my network knowledge, build and design networks, and experiment with various networking technologies, protocols, and apply security features in a network.
 
 Security Concepts Involved: Setting Passwords, firewalls, WPA3, and ACLs for switches and routers.
