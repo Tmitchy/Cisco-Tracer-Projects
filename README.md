@@ -60,5 +60,5 @@ Here are some of the **network security measures** incorporated into this projec
 - 🔑 Password protection on routers and switches
 - 🔥 Basic firewall simulation
 - 📶 WPA3 wireless security implementation
-- 🚫 Access Control Li
+- 🚫 Access Control List
 
